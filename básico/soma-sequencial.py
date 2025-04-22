@@ -1,5 +1,5 @@
 """
-Desafio 09 - Soma de 1 até N
+Desafio 02 - Soma de 1 até N
 
 Descrição:
 Peça ao usuário para digitar um número inteiro N. Some todos os números de 1 até N e exiba o resultado.

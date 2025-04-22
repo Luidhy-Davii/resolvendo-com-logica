@@ -1,5 +1,9 @@
-# Descrição: Dada uma lista de números inteiros, encontre o maior e o menor número da lista.
+""" 
+Desafio 03 - Menor/maior item da lista
 
+Descrição: Dada uma lista de números inteiros, encontre o maior e o menor número da lista.
+
+"""
 lista = [10, -5, 3, 8, 0, -2] #Lista de números inteiros
 maior = lista[0] #Assume-se que o primeiro número da lista é o maior - 3
 menor = lista[0] #Assume-se que o primeiro número da lista é o menor - 3

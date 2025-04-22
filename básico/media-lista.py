@@ -1,5 +1,5 @@
 """
-Desafio 06 - Calcular a Média de uma Lista de Números
+Desafio 05 - Calcular a Média de uma Lista de Números
 
 Descrição:
 Peça ao usuário que informe uma quantidade de números. Em seguida, calcule e exiba a média aritmética desses números.
