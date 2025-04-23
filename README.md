@@ -17,11 +17,13 @@ O principal objetivo deste repositório é compartilhar desafios de lógica em P
 Até o momento, os desafios incluem:
 
 1. **Verificar se um número é par ou ímpar.**
-2. **Encontrar o maior e o menor número em uma lista.**
-3. **Calcular a média de uma lista de números.**
+2. **Somar todos os números de 1 até N.**
+3. **Encontrar o maior e o menor número em uma lista.**
 4. **Verificar se um número é positivo, negativo ou zero.**
-5. **Contar as vogais em uma frase.**
-6. **Somar todos os números de 1 até N.**
+5. **Calcular a média de uma lista de números.**
+6. **Contar os números pares e ímpares de uma linsta de números.**
+7. **Inverter uma string.**
+8. **Verificar se a palavra/frase é um palíndromo.**
 
 ### Novos desafios toda semana!
 
