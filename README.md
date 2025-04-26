@@ -28,7 +28,7 @@ Até o momento, os desafios incluem:
 10. **Calcular fatorial.**
 11. **Verificar se o ano bissexto.**
 12. **Calcular Índice de Massa Corporal (IMC).**
-13. ** Gerador de Tabuada.**
+13. **Gerador de Tabuada.**
 
 ### Novos desafios toda semana!
 
