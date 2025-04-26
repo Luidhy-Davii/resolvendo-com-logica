@@ -21,14 +21,12 @@ Até o momento, os desafios incluem:
 03. **Encontrar o maior e o menor número em uma lista.**
 04. **Verificar se um número é positivo, negativo ou zero.**
 05. **Calcular a média de uma lista de números.**
-06. **Contar os números pares e ímpares de uma linsta de números.**
+06. **Contar os números pares e ímpares de uma lista de números.**
 07. **Inverter uma string.**
 08. **Verificar se a palavra/frase é um palíndromo.**
 09. **Contador de palavras.**
 10. **Calcular fatorial.**
 11. **Verificar se o ano bissexto.**
-12. **Calcular o IMC (índice de massa corporal).**
-13. **Gerador de tabuadas.**
 
 ### Novos desafios toda semana!
 
